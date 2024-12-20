@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SuperMarioBrossArtBook</string>
+    <string name="acerca_de">Acerca de...</string>
+    <string name="mensaje_acerca_de">Aplicación desarrollada por Jose Angel Alvarez. Versión 1.0.</string>
+    <string name="bienvenido_mundo_mario">Bienvenidos al mundo de Mario</string>
+    <string name="personaje_seleccionado">Se ha seleccionado el personaje %1$s</string>
+    <string name="personaje_imagen_desc">Imagen del personaje</string>
+    <string name="nombre_personaje_placeholder">Personaje</string>
+    <string name="ok">OK</string>
+    <string name="drawer_open">Abrir menú</string>
+    <string name="drawer_close">Cerrar menú</string>
+    <string name="home">Inicio</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="idioma">Idioma</string>
+    <string name="cambiar_idioma">Cambiar idioma</string>
+    <string name="mario_name">Mario</string>
+    <string name="mario_desc">Héroe del Reino Champiñón</string>
+    <string name="mario_abil_1">Salto alto</string>
+    <string name="mario_abil_2">Valentía</string>
+
+    <string name="luigi_name">Luigi</string>
+    <string name="luigi_desc">Hermano de Mario</string>
+    <string name="luigi_abil_1">Salto alto</string>
+    <string name="luigi_abil_2">Algo miedoso</string>
+
+    <string name="peach_name">Peach</string>
+    <string name="peach_desc">Princesa del Reino Champiñón</string>
+    <string name="peach_abil_1">Planear en el aire</string>
+    <string name="peach_abil_2">Usar champiñones</string>
+
+    <string name="toad_name">Toad</string>
+    <string name="toad_desc">Habitante del Reino Champiñón</string>
+    <string name="toad_abil_1">Velocidad</string>
+    <string name="toad_abil_2">Conocimiento del reino</string>
+</resources>
+
